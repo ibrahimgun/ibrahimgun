@@ -1,16 +1,11 @@
 <br>
 <div align="center"><img width="250px"src="https://i.hizliresim.com/qdhztr5.png"></div>
-<h1 align="center">Hi, I'm İbrahim Gün</h1>
-<h3 align="center">iOS Developer</h3>
+<h2><p align="center">Hi, I'm İbrahim Gün</p>
+About Me
+</h2>
 
 
-<h2> About Me </h2>
-
-
-
-
-
-
+- 🔭 I’m iOS Developer
 
 - 🌱 I’m currently learning **iOS & Swift**
 
