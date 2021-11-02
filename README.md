@@ -5,13 +5,13 @@ About Me
 </h2>
 
 
-- 🔭 I’m iOS Developer
+- 🔭 I’m **iOS Developer**
 
 - 🌱 I’m currently learning **iOS & Swift**
 
 - 📫 How to reach me **ibrahimggun@gmail.com**
 
-- 💬  Talk to me about iOS Development, Swift 
+- 💬  Talk to me about **iOS Development, Swift**
 
 <h2> Skills </h2>
 <a href= https://github.com/ibrahimgun?tab=repositories&q=&type=&language=swift&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/swift.svg'> </a>
