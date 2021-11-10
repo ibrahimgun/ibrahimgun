@@ -9,7 +9,7 @@ About Me
 
 - 🌱 I’m currently learning **iOS & Swift**
 
-- 📫 How to reach me **ibrahimggun@gmail.com**
+- 📫 How to reach me **ibrahimguncs@gmail.com**
 
 - 💬  Talk to me about **iOS Development, Swift**
 
