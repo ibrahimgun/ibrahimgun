@@ -24,19 +24,19 @@ About Me
 
 <h2> Connect with me  </h2>
 
-<a href = 'https://www.twitter.com/ibogun7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.twitter.com/ibrahimguncs'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.linkedin.com/in/ibrahimgun'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
 
 <h2> My Github Stats  </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahimgun&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimgun&theme=default" />
-</a>
+
 
 
 
